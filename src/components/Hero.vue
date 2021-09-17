@@ -1,9 +1,9 @@
 <template>
-    <h1>La mia prima app con Vue CLI</h1>
+    <img src="../assets/banner.gif" alt="banner">
 </template>
 <script>
 export default {
-  name: 'Title'
+  name: 'Hero'
 }
 </script>
 <style scoped>
